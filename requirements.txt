@@ -1,0 +1,5 @@
+gradio==4.10.0
+google-api-python-client==2.115.0
+transformers==4.38.2
+torch
+pandas
